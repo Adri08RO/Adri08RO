@@ -47,7 +47,9 @@ Python, Git, Github, Docker
 
 <img src="https://skillicons.dev/icons?i=aws,arduino,googlecloud,kali,latex,linux,R&perline=7" alt="tech stack">
 
-AWS, Arduino, Google Cloud, Kali Linux, Latex, Linux
+AWS, Arduino, Google Cloud, Kali, Latex, Linux
+
+
 
 </div>
 
