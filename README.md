@@ -10,7 +10,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/Adri08RO">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8C23F7&width=435&lines=Adriana-Cybersecurity+Analyst;Junior+Data+Science;Junior+Pentration+tester" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8C23F7&width=435&lines=Adriana-Cybersecurity+Analyst;Junior+Data+Science;Junior+Pentration+tester" alt="typing banner">
 </a>
 
 <br>
