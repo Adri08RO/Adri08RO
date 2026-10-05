@@ -104,7 +104,7 @@ Hi, I'm **Adriana**, Cybersecurity Analyst, Junior Data Analyst and Junior Penet
 
 <div align="center">
 
-<sub>` Build with love· @emmcriptada `</sub>
+<sub>` `</sub>
 
 </div>
 
