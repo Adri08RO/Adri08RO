@@ -39,12 +39,15 @@ Hi, I'm **Adriana**, Cybersecurity Analyst, Junior Data Analyst and Junior Penet
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode&perline=7" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,git,github,docker&perline=7" alt="tech stack">
+
+Python, Git, Github, Docker
 
 ## Programs & Skills
 
 <img src="https://skillicons.dev/icons?i=aws,arduino,googlecloud,kali,latex,linux,R&perline=7" alt="tech stack">
 
+AWS, Arduino, Google Cloud, Kali Linux, Latex, Linux
 
 </div>
 
